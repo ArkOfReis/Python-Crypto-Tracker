@@ -1,0 +1,4 @@
+pandas_datareader==0.9.0
+matplotlib==3.3.3
+mplfinance==0.12.7a5
+PyQt5==5.15.2
