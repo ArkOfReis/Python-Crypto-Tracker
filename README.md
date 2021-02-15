@@ -4,7 +4,7 @@
 
 (1) Move the Folder to the Desktop
 
-(2) Open 'Command Prompt' and type: 'cd C:\Users{USER}\Desktop\Crypto Tracker'
+(2) Open 'Command Prompt' and type: 'cd C:\Users\{USER}\Desktop\Crypto Tracker'
 
 (3) Type: 'pip install -r requirements.txt'
 
