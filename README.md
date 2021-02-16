@@ -1,14 +1,11 @@
 # Python-Crypto-Tracker
 ```
-(-) Steps to use the Tracker:
+(-) Steps to use the Data-Base:
 
 (1) Move the Folder to the Desktop
 
-(2) Open 'Command Prompt' and type: 'cd C:\Users\{USER}\Desktop\Python-Crypto-Tracker-main'
+(2) Run it. Voila! There you have it!
 
-(3) Type: 'pip install -r requirements.txt'
-
-(4) Voila! There you have it!
 ```
 
 ```
